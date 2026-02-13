@@ -1,7 +1,5 @@
 # Part 2 Code
 
-Source: `/Users/nihalgbailur/Downloads/main (1).py`
-
 ```python
 from fastapi import FastAPI, Request
 from fastapi.staticfiles import StaticFiles

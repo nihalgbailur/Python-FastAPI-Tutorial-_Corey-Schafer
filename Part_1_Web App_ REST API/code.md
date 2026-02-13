@@ -1,7 +1,5 @@
 # Part 1 Code
 
-Source: `/Users/nihalgbailur/Downloads/main.py`
-
 ```python
 from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
